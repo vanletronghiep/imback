@@ -1,0 +1,7 @@
+sentencepiece
+pandas
+tqdm
+matplotlib
+numpy
+torch
+sacrebleu
